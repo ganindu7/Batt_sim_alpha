@@ -1,1 +1,2 @@
-Author: Ganindu
+Author: Ganindu Nanayakkara
+        ganindu@gmail.com
